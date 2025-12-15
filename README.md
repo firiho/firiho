@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-Flambeau here! I am an aspiring full-stack software engineer. Welcome to my GitHub profile.
+Flambeau here! I am a full-stack software engineer. Welcome to my GitHub profile.
 
 ### About Me
 
-I like being creative and building new things. I enjoy a challenge and am always eager to learn and grow in the ever-evolving field of technology. My passion lies in turning ideas into reality through code, whether it's through frontend development or diving deep into backend logic.
+I like being creative and building new things. I enjoy a challenge and am always eager to learn and grow in the ever-evolving field of technology. My passion lies in transforming ideas into useful products through code, whether it's through frontend development or delving into backend logic.
 
 ## Tech Stack
 
@@ -19,6 +19,8 @@ I like being creative and building new things. I enjoy a challenge and am always
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
+![Marko.js](https://img.shields.io/badge/Marko.js-2596BE?style=for-the-badge&logo=marko&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron.js-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
@@ -29,12 +31,13 @@ I like being creative and building new things. I enjoy a challenge and am always
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 ### Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -47,6 +50,7 @@ I like being creative and building new things. I enjoy a challenge and am always
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-008000?style=for-the-badge&logo=api&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-FFE873?style=for-the-badge&logo=python&logoColor=black)
 
